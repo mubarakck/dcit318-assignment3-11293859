@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aB2whSQTiKU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mubarak\\Desktop\\ONGOING ASSIGNMENTS\\dcit318-assignment3-11293859\\Warehouse Inventory Management System\\Warehouse Inventory Management System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\mubarak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
