@@ -1,0 +1,14 @@
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\bin\Debug\net8.0\Finance Management System.exe
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\bin\Debug\net8.0\Finance Management System.deps.json
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\bin\Debug\net8.0\Finance Management System.runtimeconfig.json
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\bin\Debug\net8.0\Finance Management System.dll
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\bin\Debug\net8.0\Finance Management System.pdb
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.dll
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\refint\Finance Management System.dll
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.pdb
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\Finance Management System.genruntimeconfig.cache
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment2-11293859\Finance Management System\obj\Debug\net8.0\ref\Finance Management System.dll
