@@ -1,0 +1,15 @@
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\bin\Debug\net8.0\School Grading System.exe
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\bin\Debug\net8.0\School Grading System.deps.json
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\bin\Debug\net8.0\School Grading System.runtimeconfig.json
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\bin\Debug\net8.0\School Grading System.dll
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\bin\Debug\net8.0\School Grading System.pdb
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.sourcelink.json
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.dll
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\refint\School Grading System.dll
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.pdb
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\School Grading System.genruntimeconfig.cache
+C:\Users\mubarak\Desktop\ONGOING ASSIGNMENTS\dcit318-assignment3-11293859\School Grading System\obj\Debug\net8.0\ref\School Grading System.dll

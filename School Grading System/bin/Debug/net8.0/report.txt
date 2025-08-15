@@ -1,0 +1,6 @@
+Abdul-Rashid Mubarak Wumpini (ID: 11293859): Score = 87, Grade = A
+Ian Awuah Spears (ID: 10112344): Score = 99, Grade = A
+Jacob Zumah (ID: 22908390): Score = 55, Grade = D
+Awesu Korantneg (ID: 12345433): Score = 63, Grade = C
+Bello Abdul-Samed (ID: 11890933): Score = 79, Grade = B
+Neil Armstrong (ID: 11234878): Score = 34, Grade = F
